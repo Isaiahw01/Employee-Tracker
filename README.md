@@ -63,28 +63,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Repository Link:
 [Repository Link 'Click Here'.](https://github.com/Isaiahw01/Employee-Tracker)
 
-
-
-
-## Installation Process
-1. Clone or download the zip.folder of the repository:(https://github.com/Isaiahw01/Employee-Tracker)
-2. Install the following: 
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
-3. Open the repository in any source code editor.
-4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2) to ensure the cloned documentation will operate.
-
-## Built With
-- Saiyan Pride
-- Dynamic JavaScript 
-- Cfonts: [Cfonts 3.1.1](https://www.npmjs.com/package/cfonts)
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
-- License Badge: [Shields.io](https://shields.io/)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
-
 ## What I Learned
 1. How to build a command-line application from scratch to manage an employee database, using Node.js, Inquirer, and MySQL.
 2. Creating a lengthly content management systems (CMS). 

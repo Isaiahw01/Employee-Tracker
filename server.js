@@ -19,22 +19,6 @@ connection.connect((err) => {
 });
 
 
-cfonts.say('Isaiahs \nSQL Employee Tracker', {
-	font: 'block',             
-	align: 'left',           
-	colors: ['blue'],        
-	background: 'transparent', 
-	letterSpacing: 1,          
-	lineHeight: 1,           
-	space: true,              
-	maxLength: '0',           
-	gradient: false,           
-	independentGradient: false, 
-	transitionGradient: false,  
-	env: 'node'                 
-});
-
-
 function start() {
     inquirer
         .prompt({
